@@ -18,4 +18,4 @@ using namespace std;
 using namespace cv;
 
 // Function prototypes
-int run(void);
+int run();
