@@ -3,7 +3,7 @@
 // 
 #include "CSS587_Template.h"
 
-int run(void) {
+int run() {
 	cv::Mat frame;
 	string filename = "C:/Users/Caolan/source/repos/CSS587_Template/images/warriors.jpg";
 	string windowName = "Basic CSS587 Template Sample";
